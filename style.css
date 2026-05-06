@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – Dodo's Coffee Bar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="logo">
+      Dodo's Coffee Bar
+      <div style="font-size: 0.8rem; font-weight: normal; opacity: 0.8;">
+        Cozy coffee • Warm community
+      </div>
+    </div>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html" class="active">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <h1>About Dodo's Coffee Bar</h1>
+      <p>A cozy corner built around good coffee, good people, and good energy.</p>
+    </section>
+
+    <section class="two-column">
+      <div>
+        <h2>Our Story</h2>
+        <p>
+          Dodo’s Coffee Bar was imagined as a warm, welcoming space where anyone can slow down for a moment. 
+          Whether you're grabbing your morning latte, catching up with a friend, or settling in with a book, 
+          we want you to feel like you belong here.
+        </p>
+        <p>
+          Everything—from the soft lighting to the earthy tones—was chosen to create a calm, comforting atmosphere. 
+          It’s the kind of place where time moves a little slower and conversations feel a little easier.
+        </p>
+      </div>
+
+      <div>
+        <h2>Our Values</h2>
+        <ul>
+          <li><strong>Care:</strong> Every drink is made with intention and attention to detail.</li>
+          <li><strong>Community:</strong> We highlight local artists, creators, and small businesses.</li>
+          <li><strong>Comfort:</strong> We keep the space warm, inclusive, and welcoming to everyone.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2026 Dodo's Coffee Bar · Fictional café created for coursework</p>
+  </footer>
+</body>
+</html>
